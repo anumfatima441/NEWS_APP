@@ -1,7 +1,7 @@
 Govt. Graduate College Burewala,
 Project Title: News App,
 Department: BSCS 7th Semester,
-Submitted To: Prof. Alvi,
+Submitted To: Prof.Muhammad Alvi,
 Submitted By: Anum fatima,
 ORIC ID: 0009-0005-0965-4486,
 Roll No: 123196,
